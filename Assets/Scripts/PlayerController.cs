@@ -12,6 +12,7 @@ public class PlayerController : MonoBehaviour
     private int count;
     public GameObject winTextObject;
     public AudioSource audioSource;
+    public AudioSource loseSound;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -63,6 +64,7 @@ public class PlayerController : MonoBehaviour
            // Update the winText to display "You Lose!"
            winTextObject.gameObject.SetActive(true);
            winTextObject.GetComponent<TextMeshProUGUI>().text = "You Lose!";
+           loseSound.Play();
        }
     }
 }
