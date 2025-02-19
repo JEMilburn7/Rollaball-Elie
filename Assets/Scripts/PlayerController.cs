@@ -13,6 +13,8 @@ public class PlayerController : MonoBehaviour
     public GameObject winTextObject;
     public AudioSource audioSource;
     public AudioSource loseSound;
+    public AudioSource winSound;
+    public AudioSource backgroundMusic;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -41,6 +43,8 @@ public class PlayerController : MonoBehaviour
         {
             winTextObject.SetActive(true);
             Destroy(GameObject.FindGameObjectWithTag("Enemy"));
+            backgroundMusic.Stop();
+            winSound.Play();
         }
     }
 
