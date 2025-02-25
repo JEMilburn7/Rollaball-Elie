@@ -1718,7 +1718,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -2729,6 +2729,8 @@ MonoBehaviour:
   loseSound: {fileID: 1152565459}
   winSound: {fileID: 160322162}
   backgroundMusic: {fileID: 1047973431}
+  explosionFX: {fileID: 8569872744492121074, guid: 9c8d24fb98d50894fa5d3339b626dfcf, type: 3}
+  pickupFX: {fileID: 9163842254555092113, guid: fdb1ffad1b27547ceb1e6850752e6b86, type: 3}
 --- !u!114 &1537297108
 MonoBehaviour:
   m_ObjectHideFlags: 0

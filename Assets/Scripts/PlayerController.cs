@@ -15,6 +15,8 @@ public class PlayerController : MonoBehaviour
     public AudioSource loseSound;
     public AudioSource winSound;
     public AudioSource backgroundMusic;
+    public ParticleSystem explosionFX;
+    public ParticleSystem pickupFX;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -55,6 +57,8 @@ public class PlayerController : MonoBehaviour
             count = count + 1;
             SetCountText();
             audioSource.Play();
+            var currentPickupFX = Instantiate(pickupFX, other.transform.position, Quaternion.identity);
+            Destroy(currentPickupFX, 3);
         }
 
     }
@@ -69,6 +73,8 @@ public class PlayerController : MonoBehaviour
            winTextObject.gameObject.SetActive(true);
            winTextObject.GetComponent<TextMeshProUGUI>().text = "You Lose!";
            loseSound.Play();
+           Instantiate(explosionFX, transform.position, Quaternion.identity);
+           Debug.Log("Enemy");
        }
     }
 }
