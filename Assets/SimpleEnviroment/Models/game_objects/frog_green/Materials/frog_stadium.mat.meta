@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0d40175c8e9d1b54195f80442d035c6c
+timeCreated: 1524043165
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Models/game_objects/frog_green/Materials/frog_stadium.mat
+  uploadId: 262570

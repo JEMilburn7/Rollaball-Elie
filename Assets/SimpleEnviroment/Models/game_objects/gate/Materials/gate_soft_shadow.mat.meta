@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c3302ec6f43c86e4b8cc9ef4d5e1b1e5
+timeCreated: 1506586906
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Models/game_objects/gate/Materials/gate_soft_shadow.mat
+  uploadId: 262570

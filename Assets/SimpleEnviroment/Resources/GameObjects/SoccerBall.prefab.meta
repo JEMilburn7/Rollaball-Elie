@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 889583ca73bdaed439ecfa4eba6fb285
+timeCreated: 1523626373
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Resources/GameObjects/SoccerBall.prefab
+  uploadId: 262570

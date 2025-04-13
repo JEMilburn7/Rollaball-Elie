@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1dac600da73151e4589098b282b9e515
+timeCreated: 1509182945
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Models/game_objects/frog_green/Materials/frog_ballroom.mat
+  uploadId: 262570

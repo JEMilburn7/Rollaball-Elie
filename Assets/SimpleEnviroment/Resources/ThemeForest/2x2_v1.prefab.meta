@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8c84cbdcda2309e4d85bf512c1e6cb87
+timeCreated: 1506684539
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Resources/ThemeForest/2x2_v1.prefab
+  uploadId: 262570

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: fbce3c0cf75634ac99196c7fbc8328fd
+timeCreated: 1530697059
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Scripts/SceneManager.cs
+  uploadId: 262570

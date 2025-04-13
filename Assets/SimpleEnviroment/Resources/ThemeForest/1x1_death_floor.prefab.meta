@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 778878d9c8292414094c11d1ed745d33
+timeCreated: 1506935127
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Resources/ThemeForest/1x1_death_floor.prefab
+  uploadId: 262570

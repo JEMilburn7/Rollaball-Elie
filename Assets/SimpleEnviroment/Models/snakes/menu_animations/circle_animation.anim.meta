@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6e295624403fcfe49a215022e9cded66
+timeCreated: 1508602983
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Models/snakes/menu_animations/circle_animation.anim
+  uploadId: 262570

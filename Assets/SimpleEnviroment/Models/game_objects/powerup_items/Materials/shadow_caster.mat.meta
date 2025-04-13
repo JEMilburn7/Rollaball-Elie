@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0b97993ac642043e685fa0f4be6c1bda
+timeCreated: 1530882733
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Models/game_objects/powerup_items/Materials/shadow_caster.mat
+  uploadId: 262570

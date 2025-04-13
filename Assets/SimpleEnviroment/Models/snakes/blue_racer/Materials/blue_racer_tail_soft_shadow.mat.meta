@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: efe6c4d316eb1e14bbd2243ce03a9761
+timeCreated: 1505936607
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Models/snakes/blue_racer/Materials/blue_racer_tail_soft_shadow.mat
+  uploadId: 262570

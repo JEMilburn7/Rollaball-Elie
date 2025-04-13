@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d2a7e1c6b956cc34894c6fcaaf4073b2
+timeCreated: 1507284025
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Models/game_objects/butterfly/animation/butterfly.controller
+  uploadId: 262570

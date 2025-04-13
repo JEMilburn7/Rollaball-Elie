@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: df44929ccdfc3dc4bbf97a091aec29ae
+timeCreated: 1510304124
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Particles/anim/head_hit_rotation.anim
+  uploadId: 262570

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 589cd6a4e904746898c801896ac987ce
+timeCreated: 1530882736
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Models/game_objects/fruit_pear/Materials/shadow_caster.mat
+  uploadId: 262570

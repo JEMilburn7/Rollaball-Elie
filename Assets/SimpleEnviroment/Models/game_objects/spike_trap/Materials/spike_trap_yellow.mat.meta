@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 36df68fa222d83f47a00369fbedbd59e
+timeCreated: 1508589095
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Models/game_objects/spike_trap/Materials/spike_trap_yellow.mat
+  uploadId: 262570

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 46ed07ecfa14d55458e0dc29b0432b19
+timeCreated: 1506336327
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Models/game_objects/fruit_pear/Materials/pear.mat
+  uploadId: 262570

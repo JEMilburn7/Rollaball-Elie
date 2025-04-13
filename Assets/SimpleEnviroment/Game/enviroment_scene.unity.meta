@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 30b390ea142c14fd1941962950e2679e
+timeCreated: 1530695355
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Game/enviroment_scene.unity
+  uploadId: 262570

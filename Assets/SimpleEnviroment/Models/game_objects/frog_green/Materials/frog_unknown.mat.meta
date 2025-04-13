@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2c06052d5680934408f2cefdcea03a5c
+timeCreated: 1510148671
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Models/game_objects/frog_green/Materials/frog_unknown.mat
+  uploadId: 262570

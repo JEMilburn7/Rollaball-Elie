@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a8b1e13258399ee458b7e1c5a40f2b8f
+timeCreated: 1510998221
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Particles/shader/Mobile-Particle-Add_ZTOP.shader
+  uploadId: 262570

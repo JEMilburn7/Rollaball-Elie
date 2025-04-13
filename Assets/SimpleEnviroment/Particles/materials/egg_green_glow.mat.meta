@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: add606f21c4eb0a4bade7480288fae12
+timeCreated: 1530818877
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Particles/materials/egg_green_glow.mat
+  uploadId: 262570

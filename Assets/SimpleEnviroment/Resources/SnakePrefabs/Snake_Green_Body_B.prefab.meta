@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 50ec1fc2c644fac42af1f81b83310e61
+timeCreated: 1530711368
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Resources/SnakePrefabs/Snake_Green_Body_B.prefab
+  uploadId: 262570

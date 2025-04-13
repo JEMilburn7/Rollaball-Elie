@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 131d9596433eee043951d0ba59908120
+timeCreated: 1506420011
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Models/game_objects/powerup_eggs/Materials/egg_invincible.mat
+  uploadId: 262570

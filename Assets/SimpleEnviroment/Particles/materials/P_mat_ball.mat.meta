@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4af8aa7c4d69997499d6e2f824b0d882
+timeCreated: 1524126090
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Particles/materials/P_mat_ball.mat
+  uploadId: 262570

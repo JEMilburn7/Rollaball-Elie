@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4b7a80a418253744c805f98b0d4c44db
+timeCreated: 1506336327
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Models/game_objects/fruit_pear/Materials/pear_soft_shadow.mat
+  uploadId: 262570

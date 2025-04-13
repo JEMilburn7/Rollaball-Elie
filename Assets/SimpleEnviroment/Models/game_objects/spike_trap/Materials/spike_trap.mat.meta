@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: eba54076ea1e330449add722e52b7ad1
+timeCreated: 1506591096
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Models/game_objects/spike_trap/Materials/spike_trap.mat
+  uploadId: 262570

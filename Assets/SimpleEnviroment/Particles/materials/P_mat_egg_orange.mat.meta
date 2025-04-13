@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5ef17b6072f74e44cabf6594e56b1d7a
+timeCreated: 1521534877
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Particles/materials/P_mat_egg_orange.mat
+  uploadId: 262570

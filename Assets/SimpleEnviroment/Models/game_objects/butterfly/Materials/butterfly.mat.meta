@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cb3069ede97706a48b88562c231870de
+timeCreated: 1507283115
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Models/game_objects/butterfly/Materials/butterfly.mat
+  uploadId: 262570

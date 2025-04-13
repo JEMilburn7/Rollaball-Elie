@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 98130b38b0c1bc14daaacf0b281fc477
+timeCreated: 1506513857
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Resources/ThemeForest/1x1_inside_fence.prefab
+  uploadId: 262570

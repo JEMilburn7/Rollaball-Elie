@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e673bf1e389994fe990b4c2875bd6b79
+timeCreated: 1530695540
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Resources/Other/Lighting.prefab
+  uploadId: 262570

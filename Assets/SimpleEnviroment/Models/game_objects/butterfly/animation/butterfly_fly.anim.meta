@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 00596a19f84d650429da1e57d3c563ec
+timeCreated: 1507284025
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Models/game_objects/butterfly/animation/butterfly_fly.anim
+  uploadId: 262570

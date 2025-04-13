@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c4d85f4c828fddf4b84177b880fa2005
+timeCreated: 1507805106
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Models/theme_forest/environment/Materials/green_env.mat
+  uploadId: 262570

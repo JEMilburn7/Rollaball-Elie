@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ee273604131ac458dbc58562c6e702a0
+timeCreated: 1530882730
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Models/theme_forest/fences/Materials/fence_soft_shadow.mat
+  uploadId: 262570

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 28092d8640e2f914ba95a62ffbf54ee3
+timeCreated: 1509349410
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Models/game_objects/animations/pickup.anim
+  uploadId: 262570

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6c57e52f731e06447a0fd88a92013e5a
+timeCreated: 1508589465
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126686
+  packageName: Blocky Snakes Asset Pack - Simple
+  packageVersion: 1.0
+  assetPath: Assets/SimpleEnviroment/Resources/SnakeSelection/BlueRacer_Menu.prefab
+  uploadId: 262570
